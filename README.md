@@ -54,7 +54,7 @@ A music platform or label wants to understand what actually drives streaming suc
 - **The monthly streams chart is not sorted chronologically** — the axis runs Sep → Jan → Oct → Nov → Aug → Jul → Jun → May → Mar → Dec → Feb → Apr, sorted by value rather than calendar order, which makes the line look like a steady decline even though the months themselves aren't in sequence. It's worth re-sorting this by actual month order to confirm whether a real seasonal trend exists.
 ## 📸 Dashboard
  
-![Spotify 2023 Streams Dashboard](images/Spotify2023streams.png)
+![Spotify 2023 Streams Dashboard](https://github.com/Shodunke-Feranmi/Spotify2023-Streams/blob/main/Spotify2023streams.png)
  
 ## 📚 Skills Demonstrated
  
